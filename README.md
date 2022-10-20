@@ -1,5 +1,5 @@
 # nasa-exploration
-Exploring a dataset on NASA's planetary exploration budget. Look to further my learning in exploratory data analysis with SQL, financial analysis, and space exploration all in one handy session!
+Exploring a dataset on NASA's planetary exploration budget. Look to further my learning in exploratory data analysis with SQL, financial analysis, and space exploration!
 
 Key Learnings
 
